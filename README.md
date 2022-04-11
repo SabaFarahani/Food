@@ -1,1 +1,1 @@
-# Food
+A single not responsive page
